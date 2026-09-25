@@ -1,0 +1,6 @@
+{
+  "name": "Odoo Local Business ERP",
+  "description": "All-in-one local business management system inspired by Odoo: Point of Sale (POS) with Safaricom M-Pesa STK Push, Inventory & Barcodes, Sales Orders, Purchases, CRM, Invoicing, and Staff Attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
